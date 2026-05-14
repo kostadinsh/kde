@@ -26,9 +26,11 @@ COMMON_DEPEND="
 	>=kde-frameworks/kcrash-${KFMIN}:6
 	>=kde-frameworks/kdbusaddons-${KFMIN}:6
 	>=kde-frameworks/ki18n-${KFMIN}:6
+	>=kde-frameworks/kitemmodels-${KFMIN}:6
 	>=kde-frameworks/ksvg-${KFMIN}:6
 	>=kde-frameworks/kwindowsystem-${KFMIN}:6
 	>=kde-frameworks/kxmlgui-${KFMIN}:6
+	>=kde-plasma/plasma5support-${KDE_CATV}:6
 	>=kde-plasma/layer-shell-qt-${KDE_CATV}:6
 	>=kde-plasma/libkscreen-${KDE_CATV}:6=
 	>=kde-plasma/libplasma-${KDE_CATV}:6=
